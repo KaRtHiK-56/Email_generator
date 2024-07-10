@@ -97,7 +97,8 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## Demo
 
-https://github.com/KaRtHiK-56/Aadhar_FAQ_Gen_AI
+https://github.com/KaRtHiK-56/Email_generator.git
+
 
 
 ## Documentation
